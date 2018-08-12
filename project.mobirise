@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Ceroc Dunedin Demo",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 127,
+    "uniqCompNum": 129,
     "versionPublish": "4.6.5",
     "theme": {
       "name": "mobirise4",
@@ -1207,7 +1207,7 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p>* Pricing is per night, regardless of the number of classes attended<span style=\"font-size: 1.09rem;\">* Concession = student/ gold card/ community services card</span></p><p><b><u>First class free!</u></b></p><p><span style=\"font-style: normal;\">Everyone's first class is free - come along and try it out. You have nothing to lose!</span></p><p><span style=\"font-style: normal;\"><b><u>Per night</u></b></span></p><p><span style=\"font-style: normal;\">Concession: $10</span></p><p><span style=\"font-style: normal;\">General entry: $12</span></p><p><span style=\"font-style: normal;\">Freestyle only: $7</span></p><p><span style=\"font-style: normal;\"><b><u>Multitrip cards\n</u></b></span></p><p><span style=\"font-style: normal;\">* Concession 10 classes : $85 \n</span></p><p><span style=\"font-style: normal;\">* General 10 classes : $110</span></p><p><span style=\"font-style: normal;\"><b><u>New student deal</u></b></span></p><p><span style=\"font-style: normal;\">\"6 for 3\" : $36 for 6 classes</span></p><p><br></p><p><span style=\"font-style: normal;\"><b><u>Private lessons</u></b></span></p><p><span style=\"font-style: normal;\">Generally, private lessons are $60 per hour. Please see <a href=\"page4.html\">private lessons and wedding dances</a> tab for more information, or contact us to make a booking.</span></p><p><br></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p>* Pricing is per night, regardless of the number of classes attended</p><p><span style=\"font-size: 1.09rem;\">* Concession = student/ gold card/ community services card</span></p><p><b><u>First class free!</u></b></p><p><span style=\"font-style: normal;\">Everyone's first class is free - come along and try it out. You have nothing to lose!</span></p><p><span style=\"font-style: normal;\"><b><u>Per night</u></b></span></p><p><span style=\"font-style: normal;\">Concession: $10</span></p><p><span style=\"font-style: normal;\">General entry: $12</span></p><p><span style=\"font-style: normal;\">Freestyle only: $7</span></p><p><span style=\"font-style: normal;\"><b><u>Multitrip cards\n</u></b></span></p><p><span style=\"font-style: normal;\">* Concession 10 classes : $85 \n</span></p><p><span style=\"font-style: normal;\">* General 10 classes : $110</span></p><p><span style=\"font-style: normal;\"><b><u>New student deal</u></b></span></p><p><span style=\"font-style: normal;\">\"6 for 3\" : $36 for 6 classes</span></p><p><br></p><p><span style=\"font-style: normal;\"><b><u>Private lessons</u></b></span></p><p><span style=\"font-style: normal;\">Generally, private lessons are $60 per hour. Please see <a href=\"page4.html\">private lessons and wedding dances</a> tab for more information, or contact us to make a booking.</span></p><p><br></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qZZM9CnQ9N",
           "_anchor": "content2-1d",
           "_protectedParams": [],
@@ -2900,42 +2900,6 @@
               "margin": "0 auto"
             },
             ".section-text": {
-              "padding": "2rem 0"
-            },
-            ".inner-container": {
-              "margin": "0 auto"
-            },
-            "@media (max-width: 768px)": {
-              ".inner-container": {
-                "width": "100% !important"
-              }
-            },
-            ".section-text I": {
-              "color": "#232323"
-            }
-          },
-          "_name": "content10",
-          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"66\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#cc6e14\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text><i>We had so much fun learning our wedding dance with Tom and Sarah. We started with two left feet and after only a few sessions we stunned our family and friends with a dance that nobody was expecting! Learning to dance was something we never thought we would do, however the way that Ceroc teaches made it easy for us to learn both in group and private sessions. Doing a few group sessions first made it easier when it came time to learn our own wedding dance at the private lessons. We loved going to Ceroc so much that we will be back to learn more :)</i><i style=\"font-size: 1rem;\"></i><div><i>Tom and Sarah are very talented dancers and fantastic teachers. We would highly recommend them to anyone wanting to learn to dance!</i></div><br><div><i>\n</i></div><div><i>\n</i><i style=\"font-size: 1rem;\"></i></div><div><i>Mel &amp; Marty</i></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
-          "_cid": "r0pFc2nZPC",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "content10-3e"
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".line": {
-              "background-color": "@lineColor",
-              "color": "@lineColor",
-              "align": "center",
-              "height": "2px",
-              "margin": "0 auto"
-            },
-            ".section-text": {
               "padding": "2rem 0",
               "color": "#232323"
             },
@@ -2990,6 +2954,39 @@
           "_once": false,
           "_params": {},
           "_anchor": "content10-3g"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#cc6e14\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text><i>We had so much fun learning our wedding dance with Tom and Sarah. We started with two left feet and after only a few sessions we stunned our family and friends with a dance that nobody was expecting! Learning to dance was something we never thought we would do, however the way that Ceroc teaches made it easy for us to learn both in group and private sessions. Doing a few group sessions first made it easier when it came time to learn our own wedding dance at the private lessons. We loved going to Ceroc so much that we will be back to learn more :)\n</i><div><i>Tom and Sarah are very talented dancers and fantastic teachers. We would highly recommend them to anyone wanting to learn to dance!\n</i></div><div><i>\n</i></div><div><i>Mel &amp; Marty</i></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_cid": "r0ygVT1alj",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content9-3j"
         }
       ]
     },
@@ -4076,7 +4073,7 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>What is Ceroc?\n</b></span></p><p><span style=\"font-size: 1.09rem; font-style: normal;\">Ceroc Dance is a world-wide organization and here in New Zealand we have many branches across the country.&nbsp;</span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\">Ceroc is a funky fusion of many different dance styles and can be danced to almost any music including current chart-toppers, Latin, blues &amp; swing.&nbsp;</span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\">There is no tricky footwork so it's easy to learn and looks good quickly. </span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\">I</span><span style=\"font-style: normal; font-size: 1.09rem;\">t's fun, social and great exercise!&nbsp;</span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\">Start ANYTIME. </span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\">No partner, booking or experience necessary. Walk in, DANCE out!</span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\"><b>Ceroc Dunedin\n</b></span><span style=\"font-size: 1.09rem; font-style: normal;\"></span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\">Ceroc Dance has been operating in Dunedin for over 14 years and has been a well loved dance style for many people over the years. We love to provide opportunities to learn to dance and ensure a great social night out.  \n</span><span style=\"font-size: 1.09rem; font-style: normal;\"></span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\">We pride ourselves on being an inclusive and welcoming community for all - many people comment on the great level of respect, care and family feel. \n</span><span style=\"font-size: 1.09rem; font-style: normal;\"></span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\">We have a range of dancers of all ages and backgrounds. &nbsp;\n</span><span style=\"font-size: 1.09rem; font-style: normal;\"></span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\">We recommend being 16 years or older when you join. We have a great group of younger dancers who come to Ceroc.</span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>What is Ceroc?\n</b></span></p><p><span style=\"font-size: 1.09rem; font-style: normal;\">Ceroc Dance is a world-wide organization and here in New Zealand we have many branches across the country.&nbsp;</span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\">Ceroc is a funky fusion of many different dance styles and can be danced to almost any music including current chart-toppers, Latin, blues &amp; swing.&nbsp;</span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\">There is no tricky footwork so it's easy to learn and looks good quickly. </span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\">I</span><span style=\"font-style: normal; font-size: 1.09rem;\">t's fun, social and great exercise!&nbsp;</span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\">Start ANYTIME. </span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\">No partner, booking or experience necessary. Walk in, DANCE out!</span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\"><br></span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\"><b>Ceroc Dunedin\n</b></span><span style=\"font-size: 1.09rem; font-style: normal;\"></span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\">Ceroc Dance has been operating in Dunedin for over 14 years and has been a well loved dance style for many people over the years. We love to provide opportunities to learn to dance and ensure a great social night out.  \n</span><span style=\"font-size: 1.09rem; font-style: normal;\"></span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\">We pride ourselves on being an inclusive and welcoming community for all - many people comment on the great level of respect, care and family feel. \n</span><span style=\"font-size: 1.09rem; font-style: normal;\"></span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\">We have a range of dancers of all ages and backgrounds. &nbsp;\n</span><span style=\"font-size: 1.09rem; font-style: normal;\"></span></p><p><span style=\"font-style: normal; font-size: 1.09rem;\">We recommend being 16 years or older when you join. We have a great group of younger dancers who come to Ceroc.</span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r0duX3xf4O",
           "_anchor": "content2-2m",
           "_protectedParams": [],

@@ -4267,14 +4267,28 @@ body {
 .cid-r0gXFcu246 .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qZZHGomEeK {
-  padding-top: 0px;
+.cid-r0zlF2ZMlR {
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-qZZHGomEeK .mbr-text,
-.cid-qZZHGomEeK blockquote {
+.cid-r0zlF2ZMlR .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-r0zlokILvt {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-r0zlokILvt .mbr-text,
+.cid-r0zlokILvt blockquote {
   color: #767676;
+}
+.cid-r0zlokILvt .mbr-text DIV {
+  color: #232323;
+}
+.cid-r0zlokILvt .mbr-text {
+  color: #232323;
 }
 .cid-r0gZSyGuk2 {
   padding-top: 0px;
